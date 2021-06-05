@@ -26,6 +26,10 @@ public class Comment implements Serializable {
         this.postId = postId;
     }
 
+    public Comment() {
+
+    }
+
     public Integer getId() {
         return id;
     }
