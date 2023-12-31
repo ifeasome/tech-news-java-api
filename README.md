@@ -36,7 +36,6 @@ To view repo, go to: [Application Repo](https://github.com/ifeasome/tech-news-ja
 ## Usage 
 This app for anyone interested in sharing useful technical news for other users to access and give comments or votes about posted news links.
 
-[Deployed App](https://cc-java-api-13.herokuapp.com/)
 
 
 ## Tests 
